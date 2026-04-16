@@ -21,7 +21,7 @@ const teamMembers = [
   ),
   TeamMember(
     name: 'Beril Ülker',
-    country: 'Turkey',
+    country: 'Türkiye',
     hobbies: ['Swimming'],
     motto: 'Carpe diem',
     imagePath: 'assets/images/beril.jpeg',
